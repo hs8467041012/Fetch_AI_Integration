@@ -1,0 +1,9 @@
+{
+    "db_config": {
+        "server": "localhost",
+        "database": "testdb",
+        "user": "sa",
+        "password": "password"
+    },
+    "reporting_agent_url": "http://localhost:5001/report"
+}

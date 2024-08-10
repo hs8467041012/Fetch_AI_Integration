@@ -1,0 +1,4 @@
+{
+    "delta_v_endpoint": "http://localhost:4000/api",
+    "auth_token": "your_auth_token"
+}
