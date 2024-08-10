@@ -1,0 +1,4 @@
+fetchai
+requests
+pyodbc
+flask
